@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image2 Realistic Texture"
+  short_description: "Prompt-only image-2 recipes"
+  default_prompt: "Use $image2-realistic-texture to write a precise prompt-only high-end realistic image-2 portrait prompt."
